@@ -1,0 +1,16 @@
+body{
+    margin: 50px;
+    width: 60%;
+}
+p{
+    text-indent: 50px;
+}
+.text-bold{
+    font-weight: bolder;
+}
+.text-blue{
+    color: blue;
+}
+a{
+    text-decoration: none;
+}
